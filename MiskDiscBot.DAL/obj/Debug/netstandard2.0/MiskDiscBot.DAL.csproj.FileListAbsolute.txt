@@ -1,0 +1,8 @@
+E:\VS Projects\MiskDiscBot\MiskDiscBot.DAL\bin\Debug\netstandard2.0\MiskDiscBot.DAL.deps.json
+E:\VS Projects\MiskDiscBot\MiskDiscBot.DAL\bin\Debug\netstandard2.0\MiskDiscBot.DAL.dll
+E:\VS Projects\MiskDiscBot\MiskDiscBot.DAL\bin\Debug\netstandard2.0\MiskDiscBot.DAL.pdb
+E:\VS Projects\MiskDiscBot\MiskDiscBot.DAL\obj\Debug\netstandard2.0\MiskDiscBot.DAL.AssemblyInfoInputs.cache
+E:\VS Projects\MiskDiscBot\MiskDiscBot.DAL\obj\Debug\netstandard2.0\MiskDiscBot.DAL.AssemblyInfo.cs
+E:\VS Projects\MiskDiscBot\MiskDiscBot.DAL\obj\Debug\netstandard2.0\MiskDiscBot.DAL.csproj.CoreCompileInputs.cache
+E:\VS Projects\MiskDiscBot\MiskDiscBot.DAL\obj\Debug\netstandard2.0\MiskDiscBot.DAL.dll
+E:\VS Projects\MiskDiscBot\MiskDiscBot.DAL\obj\Debug\netstandard2.0\MiskDiscBot.DAL.pdb
