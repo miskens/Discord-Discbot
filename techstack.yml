@@ -2,7 +2,7 @@ repo_name: miskens/Discord-Discbot
 report_id: f018f17454faa332df29aefd4fb9dd13
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-24T18:22:57+00:00'
+timestamp: '2024-02-29T19:37:38+00:00'
 requested_by: miskens
 provider: github
 branch: master
@@ -78,7 +78,7 @@ tools:
   last_updated_by: Mikael Puusaari
   last_updated_on: 2020-09-01 12:33:06.000000000 Z
 - name: Entity Framework Core
-  description: 'Lightweight and cross-platform version of the popular Entity Framework '
+  description: Lightweight and cross-platform version of the popular Entity Framework
   website_url: https://docs.microsoft.com/en-us/ef/core/
   license: MIT
   open_source: true
